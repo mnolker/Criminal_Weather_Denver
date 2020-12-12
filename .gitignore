@@ -80,6 +80,8 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+api_key.py
+crime.csv
 
 # pyenv
 .python-version
