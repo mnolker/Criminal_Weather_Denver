@@ -62,14 +62,14 @@
 
 ## Statistical results of coorelation:
 ### Based on the p-value of # offenses to each weather condition…
-<ol>
-<li>Reject Null Hypothesis:<li>
+
+Reject Null Hypothesis:
 <ol>
 <li>Avg Temp (F) = 9.06 e-42</li>
 </li>Cloud Cover (%) = 2.23 e-06</li>
 </li>Precipitation (in) = 1.02 e-13</li>
 </ol>
-<li>Failed to Reject Null Hypothesis:<li>
+Failed to Reject Null Hypothesis:<li>
 <ol>
 <li>Wind Speed (mph) = 0.89<li>
 </ol>
