@@ -82,7 +82,7 @@
 <li>Wind Speed (mph) = -0.0<li>
 </ol>
 
-## Rough breakdown of Tasks by group members:
+Rough breakdown of Tasks by group members:
 >-  Project coordinator / merger - Melanie 
 >- Crime dataset anaysis:
 >>- Kathy 
