@@ -14,6 +14,8 @@ Project Description/Outline:
 >>- Hypothesis: Weather has an impact on non-traffic crime in Denver.
 >>- Null Hypothesis: Weather does not effect non-traffic crime in Denver.
 
+![line graph by year](/graphs/line_year_by_color.png)
+
 Research questions to Answer:
 >- Is there a correlation between crime & weather?  
 >>- What type of offenses will be used to analyze crime rates?
@@ -35,6 +37,10 @@ Datasets Used:
 >>>- avg precipitation (inches)
 >>>- avg cloud cover (%)
 >>>- avg wind speed (mph)
+
+
+
+
 
 Rough breakdown of Tasks:
 >-  Project coordinator / merger - Melanie Nolker
