@@ -15,11 +15,11 @@ Project Description/Outline:
 >>- Null Hypothesis: Weather does not effect non-traffic crime in Denver.
 
 Research questions to Answer:
->- Is there a coorelation between crime & weather?  
+>- Is there a correlation between crime & weather?  
 >>- What type of offenses will be used to analyze crime rates?
 >>- What weather conditions will be used to compare to offenses?
 
-Datasets to Be Used:
+Datasets Used:
 >- Violent Crime: https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime
 >>- Denver city crime from 1-1-2016 to 9-9-20.csv
 >>- filter for "Is Crime" = 1
@@ -30,9 +30,9 @@ Datasets to Be Used:
 >>>- OFFENSE_CATEGORY_ID
 >- Weather API = https://www.worldweatheronline.com/developer/api/docs/historical-weather-api.aspx#qparameter
 >>- API and pulls weather data for every day from 1/1/2016 to 8/31/2020
->>- pull mulipule weather conditions
->>>- avg tempurature (F)
->>>- avg preciptation (inches)
+>>- pull muliple weather conditions
+>>>- avg temperature (F)
+>>>- avg precipitation (inches)
 >>>- avg cloud cover (%)
 >>>- avg wind speed (mph)
 
