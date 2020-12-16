@@ -69,20 +69,20 @@ Reject Null Hypothesis:
 </li>Cloud Cover (%) = 2.23 e-06</li>
 </li>Precipitation (in) = 1.02 e-13</li>
 </ol>
-Failed to Reject Null Hypothesis:<li>
+Failed to Reject Null Hypothesis:</li>
 <ol>
-<li>Wind Speed (mph) = 0.89<li>
+<li>Wind Speed (mph) = 0.89</li>
 </ol>
 
 ### The results of the correlating (r-value) # offenses to each weather condition indicate a weak relationship between crime and weather conditions: 
 <ol>
-<li>Avg Temp (F) = 0.32<li>
-<li>Cloud Cover (%) = -0.18<li>
-<li>Precipitation (in) = -0.11<li>
-<li>Wind Speed (mph) = -0.0<li>
+<li>Avg Temp (F) = 0.32</li>
+<li>Cloud Cover (%) = -0.18</li>
+<li>Precipitation (in) = -0.11</li>
+<li>Wind Speed (mph) = -0.0</li>
 </ol>
 
-Rough breakdown of Tasks by group members:
+#### Rough breakdown of Tasks by group members:
 >-  Project coordinator / merger - Melanie 
 >- Crime dataset anaysis:
 >>- Kathy 
